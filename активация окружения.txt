@@ -1,0 +1,12 @@
+# Выполнять в командной строке в корне проекта
+# Создаем виртуальное окружение
+python -m venv env   # возможно не python, а python3
+
+# Активируем окружение
+cd до папки с виртуальным окружением
+
+.\env\Scripts\Activate.ps1 # команда для Windows
+source env/bin/activate    # команда для Mac и Linux
+
+# Деактивация окружения
+deactivate
