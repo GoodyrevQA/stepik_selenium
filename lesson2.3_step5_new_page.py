@@ -15,10 +15,12 @@ try:
     btn = browser.find_element(By.CSS_SELECTOR, "[type='submit']")
     btn.click()
 
-    first_window = browser.window_handles[0]
+    #после клика в браузере 2 окна. Чтобы получить их имена:
+
+    first_window = browser.window_handles[0] 
     new_window = browser.window_handles[1]
 
-    browser.switch_to.window(new_window)
+    browser.switch_to.window(new_window) #переключаемся на нужное
 
     x_element = browser.find_element(By.ID, "input_value")
     x = x_element.text
