@@ -10,3 +10,8 @@ source env/bin/activate    # команда для Mac и Linux
 
 # Деактивация окружения
 deactivate
+
+# ставим, если не установлены
+pip install pytest
+pip install selenium
+pip install webdriver_manager
