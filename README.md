@@ -1,1 +1,17 @@
-# stepik_seleium
+# Автоматизация тестирования с помощью Selenium и Python
+
+[![Header](https://github.com/GoodyrevQA/stepik_selenium/blob/main/assets/logo.png)](https://github.com/GoodyrevQA/stepik_selenium)  
+
+### Languages and Tools used:
+[![Visual](https://img.shields.io/badge/-Visual_Studio_Code-24292f??style=for-the-badge&logo=Visualstudiocode&logoColor=47c5fb)](https://github.com/GoodyrevQA)
+[![Python](https://img.shields.io/badge/-Python-24292f??style=for-the-badge&logo=Python&logoColor=47c5fb)](https://github.com/GoodyrevQA/python_tg_bot)
+[![Selenium](https://img.shields.io/badge/-Selenium-24292f??style=for-the-badge&logo=Selenium&logoColor=00bf0d)](https://github.com/GoodyrevQA/python_selenium)
+[![HTML5](https://img.shields.io/badge/-HTML5-24292f??style=for-the-badge&logo=html5&logoColor=f68442)](https://github.com/GoodyrevQA/GoodyrevQA.github.io)
+[![CSS3](https://img.shields.io/badge/-CSS3-24292f??style=for-the-badge&logo=css3&logoColor=265eaa)](https://github.com/GoodyrevQA/GoodyrevQA.github.io)
+[![DevTools](https://img.shields.io/badge/-DevTools-24292f??style=for-the-badge&logo=googlechrome&logoColor=fff600)](https://github.com/GoodyrevQA)
+[![Git](https://img.shields.io/badge/-Git-24292f??style=for-the-badge&logo=Git&logoColor=f43010)](https://github.com/GoodyrevQA)
+
+Изначально этот репозиторий был приватным и не предназначался для общего доступа.  
+Поэтому не все коммиты имеют осмысленные названия. Прошу строго не судить)  
+
+PS. Serious cat - is awesome ❤
