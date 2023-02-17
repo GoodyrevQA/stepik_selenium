@@ -1,3 +1,5 @@
+'''https://stepik.org/lesson/165493/step/7?unit=140087'''
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
@@ -11,10 +13,6 @@ try:
     link = "http://suninjuly.github.io/get_attribute.html"
     browser = webdriver.Chrome()
     browser.get(link)
-
-    
-    
-
 
     # Ваш код, который заполняет обязательные поля
     chest = browser.find_element(By.ID, "treasure")  # находим сундук

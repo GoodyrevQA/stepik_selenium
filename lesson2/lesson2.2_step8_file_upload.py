@@ -1,9 +1,9 @@
+'''https://stepik.org/lesson/228249/step/8?unit=200781'''
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import os
 import time
-
-
 
 try:
 

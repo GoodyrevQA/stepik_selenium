@@ -1,3 +1,5 @@
+'''https://stepik.org/lesson/165493/step/5?unit=140087'''
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
@@ -28,7 +30,6 @@ try:
 
     time.sleep(1)
   
-
     # Отправляем заполненную форму
     button = browser.find_element(By.CSS_SELECTOR, "button.btn")
     button.click()
