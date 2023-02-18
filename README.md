@@ -11,7 +11,4 @@
 [![DevTools](https://img.shields.io/badge/-DevTools-24292f??style=for-the-badge&logo=googlechrome&logoColor=fff600)](https://github.com/GoodyrevQA)
 [![Git](https://img.shields.io/badge/-Git-24292f??style=for-the-badge&logo=Git&logoColor=f43010)](https://github.com/GoodyrevQA)
 
-Изначально этот репозиторий был приватным и не предназначался для общего доступа.  
-Поэтому не все коммиты имеют осмысленные названия. Прошу строго не судить)  
-
-PS. Serious cat - is awesome ❤
+#### Serious cat - is awesome ❤
