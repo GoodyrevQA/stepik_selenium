@@ -72,4 +72,8 @@ XPath запрос всегда начинается с символа / или 
 //div/*[@class="Jumbotron-heading"] не найдет элемент на нашей странице.
 
 pytest -s -v -m smoke test_fixture8.py 
-s выводить в консоль принты, -v выводить полный отчёт,  -m запускать маркированные тесты.
+s выводить в консоль принты, -v (verbose, то есть подробный) - выводить полный отчёт,  -m запускать маркированные тесты.
+
+https://gist.github.com/amatellanes/12136508b816469678c2
+
+py.test --tb=line  # only one line per failure

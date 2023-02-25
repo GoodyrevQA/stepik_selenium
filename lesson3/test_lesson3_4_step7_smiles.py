@@ -40,3 +40,5 @@ class TestPrintSmilingFaces():
     def test_second_smiling_faces(self, prepare_faces):
         # какие-то проверки
         pass
+
+'''pytest -s -v test_lesson3_4_step7_smiles.py'''

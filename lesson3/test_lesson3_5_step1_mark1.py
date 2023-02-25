@@ -20,6 +20,7 @@ class TestMainPage1():
     @pytest.mark.smoke
     def test_guest_should_see_login_link(self, browser):
         browser.get(link)
+        print("парам-пам-пам")
         browser.find_element(By.CSS_SELECTOR, "#login_link")
 
     @pytest.mark.regression
@@ -41,3 +42,8 @@ markers =
 
 pytest -s -v -m smoke test_lesson3_5_step1_mark1.py
 '''
+
+'''Чтобы запустить все тесты, не имеющие заданную маркировку, можно использовать инверсию. 
+Для запуска всех тестов, не отмеченных как smoke, нужно выполнить команду:
+
+pytest -s -v -m "not smoke" test_fixture8.py'''
