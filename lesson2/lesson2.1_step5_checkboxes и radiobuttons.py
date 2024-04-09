@@ -23,7 +23,7 @@ try:
     # Ваш код, который заполняет обязательные поля
     input1 = browser.find_element(By.ID, "answer")
     input1.send_keys(y)
-    input2 = browser.find_element(By.ID, "robotCheckbox")  # *-частичное вхождение
+    input2 = browser.find_element(By.ID, "robotCheckbox")  
     input2.click()
     input3 = browser.find_element(By.ID, "robotsRule")
     input3.click()
